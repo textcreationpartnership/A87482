@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A strange and terrible sight forseene in this kingdome, and city of London: together with the countrimans antidote for its prevention.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87482</idno>
+            <idno type="STC">Wing J21</idno>
+            <idno type="STC">Thomason E67_2</idno>
+            <idno type="STC">ESTC R2158</idno>
+            <idno type="EEBO-CITATION">99871456</idno>
+            <idno type="PROQUEST">99871456</idno>
+            <idno type="VID">123867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123867)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E67[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A strange and terrible sight forseene in this kingdome, and city of London: together with the countrimans antidote for its prevention.</title>
+                  <author>J. J.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Ed. Blackmore, and Tho. Banks .. to be sold at the Angell in Pauls Churchyard, .. upon the top of Bridewell-staires,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J. J.</note>
+                  <note>Imprint of microfilm copy is faded, affecting text.</note>
+                  <note>Annotation on Thomason copy: "9 September".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:123867:1"/>
+            <pb facs="tcp:123867:1"/>
+            <head>A ſtrange and terrible Sight foreſeene in this <hi>Kingdome</hi> and City of <hi>London.</hi>
+            </head>
+            <p>IT were a folly for me (thrice worthy Citizens) to make a long Oration of the miſery that both you in the City, and we in the Country have al<g ref="char:EOLhyphen"/>ready ſipped, and are like to drinke deepe of ere long, unleſſe ſome ſpee<g ref="char:EOLhyphen"/>dy courſe be taken for our reliefe; for to tell you the plaine truth, it hath beene told us ſo oft already, unleſſe more or rather better meanes had beene uſed for a redreſſe. Alas! pens are not inſtruments to offend Warri<g ref="char:EOLhyphen"/>ours, or to ſuppreſſe their violence; <hi>nil prodeſt ratio ubi vis imperat, reaſon is of little uſe where force prevailes;</hi> in down-right termes, <hi>our pens have beene too buſie and our ſwords too ſloe;</hi> if we had taken every occaſion to fight as we did to write, the warre (in all probability) had been put to an end long ere this time: I will therefore forbeare to tell you what miſeries you have ſuffered, or what meanes might have beene uſed for your redreſſe, leaſt you ſay of me as our Contry-men uſe to ſay of our forces, they come too late; or leaſt you ob<g ref="char:EOLhyphen"/>ject that againſt me as was againſt the Athenian Orator, diſcourſing at large of <hi>Hercules</hi> valor; <hi>quis ignorat?</hi> who knows it not? but I wil rather indevour to ſtir up your drooping hearts, &amp; ſhake your drowſie ſpirits, by ſhewing you the mi<g ref="char:EOLhyphen"/>ſery which is like in a ſeven fold manner to ſeize upon you unles you be active.</p>
+            <p>
+               <hi>Cipio,</hi> though he had nothing but the endowments of nature, could prevaile with his Souldiers, who were but in the ſame ſpheare, having all of them the meere principle of nature onely to incite them: yet he in his extremity, uſed no other argument but this, <hi>estote viri libertas agitur,</hi> play now the men, for your liberty lyes at ſtake: and he prevailed; did he prevaile? and were his men ſo ſtout for corporall liberty? what ſtoutneſſe there ſhould now be raiſed in you (moſt noble Citizens) whoſe principals are far above the ſphear of natu<g ref="char:EOLhyphen"/>re: Alas! 'tis not your corporal liberty alone that lies at ſtake, but alſo that which is ſpirituall; view but the worth of both and view the want, and tell me where's a peaſant in the world that would not rather chuſe to dy then looſe them.</p>
+            <p>Your corporall liberty, is that whereby you freely injoy all that is yours with<g ref="char:EOLhyphen"/>out controule of any; this is it whereby thou injoyeſt thy ſelfe as a free-man; this is it whereby thou injoyeſt thy goods and whatſoever is thine without controule of any, or being ingaged to any, and this is liberty: And this ſame liberty your enemies fight for; but how? 'tis as they doe proteſt, they fight for the Proteſtant Religion; to deſtroy it; even ſo they fight for your free<g ref="char:EOLhyphen"/>dome; to take it from you and make you ſlaves; if ever they ſhould prevaile, you might ſay to your riches, and to your pleaſures, to your dainty diſhes, and to your ſumptious building, as a Spaniard with one eye ſaid to his enemy, ha<g ref="char:EOLhyphen"/>ving
+<pb facs="tcp:123867:2"/>put out the other, good night (ſayes he) for I can ſee no longer; ſo may you ſay to your gay cloathes, and to your monies, for if ever they prevaile, you are like to ſee them no more; you muſt bid your <hi>ultimam valo</hi> to all your good company, you muſt take your leave of your ſoft beds; nay, I feare you muſt take your laſt-farewell of your wife, of your pretty children, and of your families. Ah! what ſad ſights would <hi>London</hi> ſee, in ſeeing them within her wals; you Husbands ſhould ſee your Wives raviſhed before your faces; you that can now behold them comely and decent in aparrell, ſhould then ſee them diſrobed, their aparrell pulled from their backes, and they glad to cloath themſelves in thoſe dunghill-ragges put off from thoſe filthy uncivill wretches, which follow that noiſome and that ungodly curſed crew. Ah Wives! would it not be a ſad ſight for you to ſee your grave, and honeſt Husbands inſulted o<g ref="char:EOLhyphen"/>ver by baſe unworthy fellowes, to ſee them kicke them, and beat them, and dragge them up and downe the ſtreets; how would you indure it? to ſee your decent Husbands, and your now well liking Husbands, all tottered in ragges, quaking for want of garments and looking pale for want of food and lodging, and your enemies inſtead of relieving them, ſcorning at them and diſpiſing them: you would thinke it a very poore caſe when you muſt be compelled to live <hi>aliena quadra,</hi> at another mans finding; but how much more ſtreight and irkſome will it be to you, when you ſhall ſee others glutting themſelves with your proviſion, which you &amp; your Family are ready to faint for, and your ene<g ref="char:EOLhyphen"/>mies drunke with your drinke, and you wanting it, and they ſleeping on your beds, and you lying on the floores. Ah Children! what torment will it be to you, to ſee your loving Parents thus barbarouſly handled; it wounds my heart to thinke what will becoma of you: Your homes will be the ſtreets, the bulks your beds, your drinke will be meere water, and to be feard your food will be what you can begge of common Souldiers. O heart of flint hath he that can<g ref="char:EOLhyphen"/>not weepe, to ſee the pretty children ſhivering and quaking in the ſtreets, to heare them crying out for want of food and outward comforts: O dolefull ſight, to ſee the children knocking at the priſon doores inquiring for their Pa<g ref="char:EOLhyphen"/>rents, and there to heare what moanes they to each other make; the Parents ſhake their heads and wring their hands, the children likewiſe cry to them a<g ref="char:EOLhyphen"/>gaine; they ſob, and ſigh, and pine away, and none takes pitty on them. O let me tell you Parents, Children, Servants, all whatever you be, that beare the name or face of modeſty or honeſty, your day of comfort's paſt when they poſ<g ref="char:EOLhyphen"/>ſeſſe your City, your night of miſery is come; and you muſt then ſhake hands and bid adiew to all your wonted liberty and comfort; your feaſting times will then be turned into faſting times; your merry jeſting times will now be turn<g ref="char:EOLhyphen"/>ed into ſolemne mourning and bewailing times; your drinking wine will then be turned into drinking water; your honey will be turned into gall; and to conclude, your dainty walkes will be turned into dungions, and your curious muſicke into gingling cheyns: View but this monſter well, and then tell me which of you but ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rather dye valiantly, then live to ſee and to endure <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:123867:2"/>horrid miſery: Neither is this the worſt that I have told you, but which is grievouſeſt to ſee, and heavieſt to be borne; you will aſſuredly be brought both you and yours into moſt helliſh darkneſſe; I meane into ſpirituall thral<g ref="char:EOLhyphen"/>dome. <hi>London</hi> hath now the beames of heavenly light, ſhining more cleerly and more gloriouſly in it, then any City in the World; never were there more famous Miniſters in it ſince the World ſtood then now at this preſent; never more plenty of Sermons then at this day; never more dayes of humiliation then now; never were there more Bibles in the City then now; never more liberty for Miniſters to preach and people to heare then now; never in a better way for Reformation then now: But ſhould theſe wicked creatures (as moſt certainly they will try) enter your City, your glorious light would then be turn<g ref="char:EOLhyphen"/>ed into helliſh darkneſſe; your Miniſters that now (to your comfort) you can ſee in the Pulpits, you will then (to your ſorrow) ſee in the dungions; inſtead of praying Miniſters, and preaching Miniſters, and watchfull Miniſters; you will have drunken Parſons, and ſwearing Parſons, and idle Parſons, and popiſh Parſons, and jeering Parſons againſt Jeſus Chriſt.</p>
+            <p>O what ſwarmes of <hi>Euphrates</hi> vermine would be ſcravling and creeping in your ſtreets; inſtead of Sermons, you will have railing againſt Reformation, and againſt Parliamentall proceedings and private faſt dayes; you will heare Maſſe inſtead of Gods Word, and Maſſe Prieſts inſtead of Miniſters; inſtead of ſinging Pſalmes, you will have ſinging of ballads and ſongs againſt the Proteſtants, and poore praying Chriſtians: O the oathes and thoſe horrid blaſphemies that will then be belched forth continually: Ah Chriſtians! you muſt bid farewell Bible when they come into your City, you muſt never look to ſee Engliſh Bible more, nor to read more of Gods Word; you muſt bid farewell to all your godly company, and all manner of godlineſſe in profeſſion; never looke to meet more the Ordinances, or to have your ſinnes reproved but be ſure you ſhall have your prayers jeered, and your faſting jeered, and your zeale ſcoffed at. O Magiſtrates! O Miniſters! O Ancient! O Grave! O Hus<g ref="char:EOLhyphen"/>bands! O Wives! O Parents! O Children! O Maſters! O Servants! O all and every of you that make profeſſion of Jeſus Chriſt, and have entred into Co<g ref="char:EOLhyphen"/>venant to fight for him, for Chriſts ſake and his Cauſe ſake, ponder of theſe things; and if the conſideration of theſe things will not move you to ſhut up ſhops, and come forth unto the helpe of the Lord againſt the mighty, aſſure your ſelves your poſterities will rue it and <hi>Mero's</hi> curſe will aſſuredly fall upon your head: But many I know will ſay, all this that is ſpoken concerning the enemies cruelty is but imagined, men are apt to ſpeake the worſt; ſure they will not be ſo cruell, ſay ſome.</p>
+            <p>Give me leave to anſwer; we uſually ſay ſeeing is beleeving; but he that writes theſe lines to you not onely ſaw, but alſo felt their cruelty.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their heavy bloes and bloody hands, I now doe beare their blood<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their bloody and inhumane dealing, I ſaw them <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:123867:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:123867:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:123867:4"/>mangle others, Gentlemen of worth and quality, and yet they promiſed both me and them faire quarter.</p>
+            <p>I felt their puniſhment in hunger and cold, I felt their puniſhment in fetters too, they bound my hands, my necke, and heeles together, a puniſhment ſel<g ref="char:EOLhyphen"/>dome heard of for poore priſoners, eſpecially for a Captaine; yet this and more then this I underwent; and more, I ſaw them ſtrip men aged and young, they did the like to women, maids, ſervants and children.</p>
+            <p>I ſaw the honeſt people wanting cloathes; the women weeping and making grievous moane to on another for want of bread to feed their children; I ſaw them fire houſes after that they had plundered them; I ſaw the people goe with bleeding bodies, and fainting hearts within them, to ſee their houſes fired to the ground, their goods conſumed, and they, their wives, their children and Families having no place to put their head in: O dolefull ſights to ſee, and malencholy tunes to heare; I dare preſume there is not a man in the City, if he hath but the leaſt ſparke of good nature in him, if he did but ſee, the picture drawne of their ill demeanours, but he would rather die then ſuffer them to en<g ref="char:EOLhyphen"/>ter the City. I have not yet told you the worſt; I have not told you of raviſh<g ref="char:EOLhyphen"/>ing women, neither did I tell you of killing maids, with that moſt filthy uſage.</p>
+            <p>
+               <hi>Staffordſhire</hi> women (can to their ſorrow) tell you; thus we ſee what it is to deale with ſtrangers, we pull thereby ſtrange puniſhments on our heads: This rod was then north-wards, ſince it hath beene ſouth-wards, and lately weſt-wards and whether it will, rove we know not; but ſhould it get within your City, you would (I am confident) be the miſerableſt people under the Sunne; they doe profeſſe themſelves very mercifull in the midſt of their cru<g ref="char:EOLhyphen"/>elty; all the cruelty they ſhew in the Country is but as a ſparke to the fire, or as a drop of the bucket, in compariſon of that rigour that they would ſhew to you: They know that <hi>England</hi> had not beene able to hold up hand againſt them, had not you put your hand to the worke: They know 'twas your money that maintained the warre againſt them; they know that you were the firſt moover in the worke of Reformation; they know that you oppoſed Biſhops and Ceremonies; they know 'twas you that cauſed that grand Traytor to be beheaded, and therefore you ſhall be ſure to drinke deepeſt in the cup of their fury: I beſeech God you never ſee that day; for 'twill be ſuch a time, as he will thinke himſelfe moſt happieſt that can eſcape with his life; is it not time then that you ſhould beſtirre you? you ſee how many falſe friends you have, how many ignoble ſpirits you have had all this while under the pretence of honeſt men and friends to the publique cauſe, but now have ſlipt the coller you ſee how few cordiall friends you have, and how the Kings Army or rather the Queenes Army grow more inſolent every day, and how they oppreſſe the Country, and will you lye ſtill? Up, up, brave noble ſpirits, and lye no longer like the Aſſe under the burthen of oppreſſion.</p>
+            <p>You hitherto have beene active, valiant and couragious men; up therefore like your ſelves, take ſword in hand moſt gallantly: Chronicle your names on
+<pb facs="tcp:123867:4"/>earth, in Heaven for ever, for fighting valiantly for the Lord of hoſts againſt his enemies; aged and young, maſters and ſervants, miſtreſſes and maids, it con<g ref="char:EOLhyphen"/>cernes you all that wiſh well to the Proteſtant Religion, your King and Coun<g ref="char:EOLhyphen"/>try, one way or other, either by purſes or perſons, to helpe in this great work; the vertuous maids and the young Gentlewomen of the City, ſhew their brave ſpirits in helping forward of this worke.</p>
+            <lg>
+               <l>Whoſe worthy praiſe none can expreſſe or write,</l>
+               <l>Though they ſhould beat their braines both day and night.</l>
+               <l>But <hi>Tryton</hi> broach their names the weſtern wayes,</l>
+               <l>And Fame divulge thou it, to their high praiſe.</l>
+            </lg>
+            <p>What is the matter (noble Citizens) that your hearts are downe? doe you give the day for loſt? doe you thinke <hi>England</hi> is loſt becauſe <hi>Bristoll</hi> is loſt.</p>
+            <p>Alas, <hi>Bristoll</hi> is not all our ſtrength, nor all our forts, nor all our garriſons; we have the beter cauſe, the greater ſide, and the honeſter men; the paſſage to Heaven is cleere for us, ſo that we can goe thither and fetch what we want, but 'tis ſhut to them. Our Parliament is ſtanding, our Forts are well managed; we have a pound for their ſhilling, twenty peeces of Ordnance for their one, we have the Seas to our ſelves, and all the honeſt Chriſtians with us; and as for knaves and traytors going from us, lets never be ſorry, for much better is their roome then their company: Seeing then we have a prize in our hands, let's make the beſt advantage of it whiles we may, let us ſtrive to act effectually, ſtudy the beſt way, and aske the wiſeſt counſell what to doe in ſo weighty a bu<g ref="char:EOLhyphen"/>ſineſſe.</p>
+            <p>Take that courſe that the Heathens were wont to take<g ref="char:punc">▪</g> when they went a<g ref="char:EOLhyphen"/>bout any weighty buſineſſe, they ſtill inquired at the Oracle; even ſo doe you in this weighty buſineſſe of Jeſus Chriſt, goe firſt to God in humiliation and prayer; <hi>Nineveh</hi> when it heard that its deſtruction was neer tooke this courſe, and prevailed with God; ſo doe you get as they did a decree out, that all may obſerve it, petition for a weekly faſt; theſe ate extraordinary times, the wick<g ref="char:EOLhyphen"/>ed they grow vvorſe and vvorſe, and therefore let us be better and better; be<g ref="char:EOLhyphen"/>gin with God, and then ſtrive to ſet your ſelves in order, for order is the ſtrength of an Army, and of a City, but diſorder is the confuſion of both; take therefore away the cauſes of diſorder, Malignants are the onely cauſe of diſor<g ref="char:EOLhyphen"/>der in a City or Army; ſtrive therefore to find them out, give them the Cove<g ref="char:EOLhyphen"/>nant, if they refuſe to enter into covenant with you, let them not live in the City with you, be they rich, be they poore, ſecure them, and baniſh them ne<g ref="char:EOLhyphen"/>ver diſpute this man is poore, and that man hath children, caſt them our ſpare none, unmercifull and bloody is that pitty that cauſeth the downfall of a City.</p>
+            <p>Endeavour to remove mutinous ſpirits, and faint-hearted cowards, from places of truſt in the Army, be he Colonell, Major, Captaine, or any other Of<g ref="char:EOLhyphen"/>ficer, let no ſuch perſon ſtay a day by your good will, in or amongſt your ſoul<g ref="char:EOLhyphen"/>diers. You will not imagine what a great advantage 'tis, to have all incoura<g ref="char:EOLhyphen"/>ging
+<pb facs="tcp:123867:5"/>Officers in a Towne. I know a little Towne in <hi>England</hi> which lies north<g ref="char:EOLunhyphen"/>ward, it was within this ſix weekes beſieged by the Queenes Army, conſiſtin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of 6000. men, there was not above 180. men in the Towne that were Muſqu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>teeres; yet theſe few fouhht with all that company, from ſix of the clock in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> morning till ſix at night, and then they ſcorned even when their muskets we<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> broke, and the enemies entred to parle with them, but fought with them all a<g ref="char:EOLhyphen"/>long the Towne, and at laſt got into the Church and there they parled with the enemy and got quarter; and thoſe poore handfull of men being backed on by their Commanders, through Gods providence killed foure of their Colonels fifteene or ſixteene of their Captaines, and two Regiments were brought ſo loe that they could ſcarce make 60. men apeece; it was verily thought that there were 1500. killed and wounded by thoſe nine ſcore men, whereof my ſelfe was one; ſo that reſolute men in the worke are very advantagious. But on the contrary, on coward who through the perterbations of his mind, and quames of feare oppreſſing his heart, making his eyes beleeve he ſees a 1000. when he ſees but a 100. making him thinke every buſh is a man, and every bullet that his enemy ſhoots goes through his heart; this man is enough to put a hundred ſcruples of feares into ſtout mens hearts, and ſo by conſequenee to rout an Army or looſe a Towne, as we have too late experience of it. Remove drunkards, and ſwearers, and ſcoffers at Religion, for theſe men that will not keepe touch with with God, be ſure they will breake covenant with you if oc<g ref="char:EOLunhyphen"/>caſion be offered, which is not unattempted till now: When you have removed diſorder ſet your ſelves in order, get your ſelves every one of you into a poſture for warre, get every Company Captaines, let every man liſt himſelfe and get as good Armes as he can, that ſo if an onſet ſhould be every man may doe ſomething, and fight in ſome order: Looke to your workes, ſome ſay, that they are not of themſelves as they ſhould be, get men of judgement to view them, for your Workes are the ſtrength of the City, loſe them and the City is loſt; let all the ditches without be levelled, have an eye to the men you truſt in the Forts, ſee that they be religious and well grounded men; I ſpeake bold<g ref="char:EOLhyphen"/>ly and plainly after our Country manner, becauſe I know upon the ſafety of this City depends mediatly the ſafety of our lawes, our liberties, our lives, our Religion, our Parliament and our Synod: You for (moſt noble Citizens a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you tender theſe things, ſo ſhew it in your zealous contending for theſe things Wives put on your husbands to love themſelves, you and their children, and as they love you and would have you ſafe, ſo let them uſe the meanes to keepe you ſafe, to riſe all in a body and to fight againſt thoſe curſed men that intend nothing but our deſtruction; up quickly and be doing for the Cauſe, and the Lord of Heaven the moover of all hearts ſtirre you up to the worke and proſper<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you in it, that we may ſee a happy end of this unhappy warre; and this ſhall not onely be the prayer, but as hitherto it hath; ſo alwayes it ſhall be the utmoſt indeavour of your poore Servant,</p>
+            <closer>
+               <signed>J. J.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
